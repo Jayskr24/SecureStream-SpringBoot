@@ -23,10 +23,6 @@
 * `pom.xml`: Project dependencies and build configuration.
 
 ---
-
-## 📸 Demo Screenshots
-*(Add your Postman and H2 Console screenshots here later)*
-
 ---
 
 ## 🔮 Future Roadmap
